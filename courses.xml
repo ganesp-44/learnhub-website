@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+
+    <course>
+        <title>Programming Fundamentals</title>
+        <instructor>Aakriti Academy</instructor>
+        <price>499</price>
+        <rating>4.5</rating>
+        <concepts>Variables, Data Types, Control Statements, Functions, Arrays, Pointers</concepts>
+    </course>
+
+    <course>
+        <title>Data Structures</title>
+        <instructor>Aakriti Academy</instructor>
+        <price>599</price>
+        <rating>4.7</rating>
+        <concepts>Arrays, Linked Lists, Stack, Queue, Trees, Graphs, Sorting</concepts>
+    </course>
+
+    <course>
+        <title>Database Management Systems</title>
+        <instructor>Aakriti Academy</instructor>
+        <price>549</price>
+        <rating>4.6</rating>
+        <concepts>ER Model, SQL, Normalization, Transactions, Indexing</concepts>
+    </course>
+
+    <course>
+        <title>Operating Systems</title>
+        <instructor>Aakriti Academy</instructor>
+        <price>649</price>
+        <rating>4.6</rating>
+        <concepts>Processes, Threads, CPU Scheduling, Deadlocks, Memory Management</concepts>
+    </course>
+
+    <course>
+        <title>Computer Networks</title>
+        <instructor>Aakriti Academy</instructor>
+        <price>599</price>
+        <rating>4.5</rating>
+        <concepts>OSI Model, TCP/IP, IP Addressing, Routing, HTTP, DNS</concepts>
+    </course>
+
+    <course>
+        <title>Artificial Intelligence</title>
+        <instructor>Aakriti Academy</instructor>
+        <price>699</price>
+        <rating>4.8</rating>
+        <concepts>Machine Learning, Neural Networks, NLP, Computer Vision, Search Algorithms</concepts>
+    </course>
+
+</courses>
